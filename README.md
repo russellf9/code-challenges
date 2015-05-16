@@ -42,6 +42,18 @@ A virtual wallet from which a user can deposit and withdraw money. Uses local st
 - HTML5
 
 
+## Gojimo Code Challenge
+
+A challenge to display a list of qualifications from a REST api.
+
+**Link:** - [gojimo-code-challenge](https://github.com/russellf9/gojimo-code-challenge)
+
+### Tech stack
+- Angular
+- SASS
+- HTML5
+
+
 
 
 
