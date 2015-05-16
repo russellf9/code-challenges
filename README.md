@@ -30,7 +30,7 @@ Display a list of posts which are served by a Node backend.
  
 ## Wallet App
 
-A virtual wallet from which a user can deposit and withdraw money. Uses local storage to persist data.
+A virtual wallet from which a user can deposit and withdraw money. Uses Local Storage to persist data.
 
 **Link:** - [wallet app](https://github.com/russellf9/wallet-app)
 
@@ -56,7 +56,7 @@ A challenge to display a list of qualifications from a REST api.
 
 ## Arenaflowers
 
-A tests of both code and web design. Create a widget to dowmload a pdf book.
+A tests of both code and web design. Create a widget to download a PDF book.
 
 **Link:** - [arena-flowers](https://github.com/russellf9/arena-flowers)
 
@@ -64,6 +64,22 @@ A tests of both code and web design. Create a widget to dowmload a pdf book.
 - Angular
 - SASS
 - HTML5
+
+
+## Food Delivery
+
+A challenge to design an app's architecture, for the test I used Ionic. Also I provided some limited unit tests.
+
+And, there are some answers to questions relating to Angular's use of GOF patterns.
+
+**Link:** [food-delivery](https://github.com/russellf9/food-delivery)
+
+### Tech stack
+- Angular
+- Ionic
+- HTML5
+- CSS
+- Jasmine
 
 
 
