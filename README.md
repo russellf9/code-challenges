@@ -27,4 +27,21 @@ Display a list of posts which are served by a Node backend.
 - Node.js
 - SASS
 
+ 
+## Wallet App
+
+A virtual wallet from which a user can deposit and withdraw money. Uses local storage to persist data.
+
+**Link:** - [wallet app](https://github.com/russellf9/wallet-app)
+
+**Live site:** - [wallet app](http:www.factornine.co.uk/my-wallet)
+
+### Tech stack
+- Angular
+- SASS
+- HTML5
+
+
+
+
 
