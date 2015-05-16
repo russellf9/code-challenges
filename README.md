@@ -97,6 +97,9 @@ And, there are some answers to questions relating to Angular's use of GOF patter
 - Jasmine
 
 
+## front-end-test
 
+
+## d3-challenge
 
 
