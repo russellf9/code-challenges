@@ -7,7 +7,7 @@ A repository which provides information and links to various Code Challenges
 
 A "Doodle Bug" game testing general jQuery knowledge
 
-**Link:** - [Doodles-Code-Challenge]https://github.com/russellf9/Doodles-Code-Challenge)
+**Link:** - [Doodles-Code-Challenge](https://github.com/russellf9/Doodles-Code-Challenge)
 
 ### Tech stack
 - JS
