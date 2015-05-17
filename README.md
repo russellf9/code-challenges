@@ -17,7 +17,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Code Challenges
-A list of various Code Challenges I have completed whilst applying for various jobs,
+A list of various Code Challenges I have completed whilst applying for various jobs. The test use a variety of technologies although the majority implement Angular.
 
 ## Doodles-Code-Challenge
 
