@@ -12,7 +12,7 @@
   - [Food Delivery](#food-delivery)
   - [Front End Test](#front-end-test)
   - [D3 Challenge](#d3-challenge)
-  - [Notes:](#notes)
+  - [Notes](#notes)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
