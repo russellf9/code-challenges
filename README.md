@@ -58,6 +58,8 @@ Display a list of posts which are served by a Node backend.
  
 ## Wallet App
 
+### Description
+
 A virtual wallet from which a user can deposit and withdraw money. Uses Local Storage to persist data.
 
 **Link:** - [wallet app](https://github.com/russellf9/wallet-app)
@@ -72,6 +74,8 @@ A virtual wallet from which a user can deposit and withdraw money. Uses Local St
 
 ## Gojimo Code Challenge
 
+### Description
+
 A challenge to display a list of qualifications from a REST api.
 
 **Link:** - [gojimo-code-challenge](https://github.com/russellf9/gojimo-code-challenge)
@@ -84,6 +88,8 @@ A challenge to display a list of qualifications from a REST api.
 
 ## Arenaflowers
 
+### Description
+
 A tests of both code and web design. Create a widget to download a PDF book.
 
 **Link:** - [arena-flowers](https://github.com/russellf9/arena-flowers)
@@ -95,6 +101,8 @@ A tests of both code and web design. Create a widget to download a PDF book.
 
 
 ## Backbone Test
+
+### Description
 
 A FED test using Backbone JS.
 
@@ -110,6 +118,8 @@ Was a learning expereince for me, also the test has a very neat Node api with cu
 
 
 ## Food Delivery
+
+### Description
 
 A challenge to design an app's architecture, for the test I used Ionic. Also I provided some limited unit tests.
 
@@ -127,6 +137,8 @@ And, there are some answers to questions relating to Angular's use of GOF patter
 
 ## Front End Test
 
+### Description
+
 A "Simple Queue" App, which performs CRUD operations via a NodeJS backend.
 
 The test requrements included performing operations to update the view correctly.
@@ -141,6 +153,8 @@ The test requrements included performing operations to update the view correctly
 
 
 ## D3 Challenge
+
+### Description
 
 A Code test to produce charts using financial data. For this test I used d3.
 
