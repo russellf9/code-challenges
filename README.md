@@ -97,7 +97,19 @@ And, there are some answers to questions relating to Angular's use of GOF patter
 - Jasmine
 
 
-## front-end-test
+## Front End Test
+
+A "Simple Queue" App, which performs CRUD operations via a NodeJS backend.
+
+The test requrements included performing operations to update the view correctly.
+
+**Link:** [front-end-test](https://github.com/russellf9/front-end-test)
+
+### Tech Stack
+- Angular
+- Node.js
+- HTML5
+- SASS
 
 
 ## d3-challenge
