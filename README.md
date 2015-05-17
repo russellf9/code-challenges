@@ -4,25 +4,15 @@
 
 - [Code Challenges](#code-challenges)
   - [Doodles-Code-Challenge](#doodles-code-challenge)
-    - [Description](#description)
-    - [Tech stack](#tech-stack)
   - [CandyStore Code Challenge](#candystore-code-challenge)
-    - [Description](#description-1)
-    - [Tech stack](#tech-stack-1)
   - [Wallet App](#wallet-app)
-    - [Tech stack](#tech-stack-2)
   - [Gojimo Code Challenge](#gojimo-code-challenge)
-    - [Tech stack](#tech-stack-3)
   - [Arenaflowers](#arenaflowers)
-    - [Tech stack](#tech-stack-4)
   - [Backbone Test](#backbone-test)
-    - [Tech Stack](#tech-stack)
   - [Food Delivery](#food-delivery)
-    - [Tech stack](#tech-stack-5)
   - [Front End Test](#front-end-test)
-    - [Tech Stack](#tech-stack-1)
   - [D3 Challenge](#d3-challenge)
-    - [Tech Stack](#tech-stack-2)
+  - [Notes:](#notes)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
