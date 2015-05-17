@@ -112,6 +112,14 @@ The test requrements included performing operations to update the view correctly
 - SASS
 
 
-## d3-challenge
+## D3 Challenge
 
+A Code test to produce charts using financial data. For this test I used d3.
 
+**Link:** [d3-challenge](https://github.com/russellf9/d3-challenge)
+
+### Tech Stack
+- Angular
+- d3
+- HTML5
+- CSS
