@@ -17,7 +17,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Code Challenges
-A repository which provides information and links to various Code Challenges
+A list of various Code Challenges I have completed whilst applying for various jobs,
 
 ## Doodles-Code-Challenge
 
@@ -32,11 +32,11 @@ A "Doodle Bug" game testing general jQuery knowledge
 - jQuery
 - CSS
 
-## CandyStore Code Challenge
+## Candyspace Code Challenge
 
 ### Description
 
-Display a list of posts which are served by a Node backend.
+Display a list of posts which are served by a NodeJS backend. The data is in CSV form so has to be parsed.
 
 **Link:** - [candy-space](https://github.com/russellf9/candy-space)
 
@@ -96,7 +96,7 @@ A tests of both code and web design. Create a widget to download a PDF book.
 
 A FED test using Backbone JS.
 
-Was a learning expereince for me, also the test has a very neat Node api with customers.
+As I was new to Backbone I used this as a learning expereince. The test has a very neat NodeJS api which performs CRUD operations on the customers model.
 
 **Link:** - [backbone-node-test](https://github.com/russellf9/backbone-node-test)
 
