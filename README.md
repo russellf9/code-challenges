@@ -151,3 +151,12 @@ A Code test to produce charts using financial data. For this test I used d3.
 - d3
 - HTML5
 - CSS
+
+
+## Notes:
+
+I'm using [doctoc](https://github.com/thlorenz/doctoc) to create a table of contents, simply run the following on the local git project:
+
+```
+doctoc .
+```
